@@ -1,0 +1,11 @@
+C:\C#\Work\forDLL\bin\Debug\forDLL.exe.config
+C:\C#\Work\forDLL\bin\Debug\forDLL.exe
+C:\C#\Work\forDLL\bin\Debug\forDLL.pdb
+C:\C#\Work\forDLL\obj\Debug\forDLL.csproj.AssemblyReference.cache
+C:\C#\Work\forDLL\obj\Debug\forDLL.csproj.SuggestedBindingRedirects.cache
+C:\C#\Work\forDLL\obj\Debug\forDLL.csproj.CoreCompileInputs.cache
+C:\C#\Work\forDLL\obj\Debug\forDLL.exe
+C:\C#\Work\forDLL\obj\Debug\forDLL.pdb
+C:\C#\Work\forDLL\obj\Debug\forDLL.csproj.CopyComplete
+C:\C#\Work\forDLL\bin\Debug\FirstLibrary.dll
+C:\C#\Work\forDLL\bin\Debug\FirstLibrary.pdb
